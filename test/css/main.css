@@ -20,30 +20,11 @@ img {
   padding: 0;
 }
 
-.layer:nth-child(1) {
-  opacity: 0.15;
-}
-.layer:nth-child(2) {
-  opacity: 0.30;
-}
-.layer:nth-child(3) {
-  opacity: 0.45;
-}
-.layer:nth-child(4) {
-  opacity: 0.60;
-}
-.layer:nth-child(5) {
-  opacity: 0.75;
-}
-.layer:nth-child(6) {
-  opacity: 0.90;
-}
-
 .container {
 	padding: 170px;
 }
 .hero {
-	background: url('http://24.media.tumblr.com/67dd24c453b057342ff2849421e1c88c/tumblr_mxrv2tfdaT1st5lhmo1_1280.jpg') 50% 0 no-repeat fixed;
+	background: url('http://unsplash.s3.amazonaws.com/batch%208/sf-rowing.JPG') 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
 	padding-top: 0;
